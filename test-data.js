@@ -512,10 +512,9 @@ const sections = [
         "type": "input",
         "prompt": "2. _ h _   _ l _",
         "answers": [
-          "the flu",
-          "flu"
+          "the flu"
         ],
-        "explanation": "The boy is ill with the flu.",
+        "explanation": "Điền the flu để khớp đủ số chữ cái và các chữ gợi ý đã cho trong đề.",
         "image": "assets/images/h2-flu.png",
         "points": 1
       },
